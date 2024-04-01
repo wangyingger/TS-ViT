@@ -7,7 +7,15 @@ python     >= 3.9
 
 pytorch	>= 1.10.0
 
+torchvision	>= 0.11.0
+
 timm	== 0.9.12
+
+
+# Data Preparation
+
+Download the CUB-200-2011 dataset and Stanford Dogs dataset from official websites and put them in corresponding folders.
+
 
 ## Training
 
